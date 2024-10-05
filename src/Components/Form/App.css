@@ -1,0 +1,48 @@
+.form {
+    background-color: #df6b1b;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.text {
+    color: black;
+    font-weight: 500;
+}
+
+.dropdown {
+    width: 70px;
+    text-align: center;
+    background-color: #fde7aa;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.input {
+    background-color: #fde7aa;
+    border-radius: 40px;
+    padding: 15px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+}
+
+.add-button {
+    background-color: #67c1a3;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    padding: 0px 27px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.add-button:active {
+    transform: scale(0.88); ;
+}
+
