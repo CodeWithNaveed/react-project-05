@@ -7,7 +7,7 @@ const Logo = () => {
       <div className="imageBox">
         <img src={tree} alt="tree" />
       </div>
-      <h1>Main hun Logo</h1>
+      <h1>FAR AWAY</h1>
       <div className="imageBox">
         <img src="https://png.pngtree.com/png-clipart/20220818/ourmid/pngtree-brown-briefcase-transparent-png-image_6115630.png" alt="briefcase" />
       </div>
